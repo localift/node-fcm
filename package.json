@@ -1,0 +1,18 @@
+{
+  "name": "@localift/fcm",
+  "version": "0.1.0",
+  "description": "Firebase Cloud Messaging library",
+  "main": "lib/index.js",
+  "dependencies": {
+    "backoff": "^2.5.0",
+    "superagent": "^2.0.0",
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Molloy <brendan@localift.net>",
+  "license": "MIT"
+}
